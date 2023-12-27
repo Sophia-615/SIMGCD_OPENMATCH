@@ -1,0 +1,2 @@
+2023-12-27 20:28:58.862 | INFO     | __main__:<module>:249 - Using evaluation function v2 to print results
+2023-12-27 20:28:59.506 | INFO     | __main__:<module>:287 - model build
